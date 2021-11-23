@@ -91,6 +91,17 @@ A quick note - you probably don't want to use your primary Scratch account's use
 </details>
 
 <details>
+<summary>Install dependencies</summary>
+
+Navigate to the project directory and run the following command:
+
+```bash
+npm install
+```
+
+</details>
+
+<details>
 <summary>Start the server</summary>
 
 > Once again, this really all depends on what platform you're running this on.

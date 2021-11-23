@@ -34,7 +34,7 @@ fetch('https://accounts.spotify.com/api/token', {
 });
 
 Scratch.UserSession.create(process.env.USERNAME, process.env.PASSWORD, function(err, user) {
-  user.cloudSession(598414279, function(err, cloud) {
+  user.cloudSession(process.env.PROJECT_ID, function(err, cloud) {
     cloud.on('set', (name, value) => {
       if (name == c('pleaseRefresh') && value == 201) {
         console.log('Refresh manually requested');
