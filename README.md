@@ -2,6 +2,8 @@
 
 Use the Spotify Web API and Scratch cloud variables to send data about your listening status into a project on Scratch, live
 
+[![](https://scratch-stats-badge.sid72020123.repl.co/project?id=598414279&data=views&label=Project%20Views&style=flat&color=blue)](https://scratch.mit.edu/projects/598414279) [![](https://scratch-stats-badge.sid72020123.repl.co/project?id=598414279&data=remixes&label=Project%20Remixes&style=flat)](https://scratch.mit.edu/projects/598414279)
+
 ## Setup
 
 <details>
